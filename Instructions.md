@@ -199,7 +199,7 @@ https://www.github.com/BlockResearchGroup/WS_digitalfutures.
 
 >\>>> import compas_plotters
 
->\>>> compas.__version__
+>\>>> compas.____version____
 
 每行一回车，”>>>“不需要输入
 
