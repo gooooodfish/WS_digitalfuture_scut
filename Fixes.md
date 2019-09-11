@@ -20,11 +20,11 @@ conda remove -n DF2019 --all
 
 打开anaconda的安装位置
 
-![1568210814079](F:\DF scut\fixes\Fixes.assets\1568210814079.png)
+![1568210814079](Fixes.assets\1568210814079.png)
 
 进入envs文件夹，把解压出来的DF2019文件夹复制到这里
 
-![1568210881186](F:\DF scut\fixes\Fixes.assets\1568210881186.png)
+![1568210881186](Fixes.assets\1568210881186.png)
 
 ### 安装fofin—UI
 
@@ -66,7 +66,7 @@ python
 >>>p=Proxy()
 ```
 
-![1568211720681](F:\DF scut\fixes\Fixes.assets\1568211720681.png)
+![1568211720681](Fixes.assets\1568211720681.png)
 
 此时不要关闭anaconda，直接打开rhino6
 
@@ -76,11 +76,11 @@ python
 
 输入命令fofin_init
 
-![1568216038786](F:\DF scut\fixes\Fixes.assets\1568216038786.png)
+![1568216038786](Fixes.assets\1568216038786.png)
 
 在rhino里画一个网格平面
 
-![1568216153991](F:\DF scut\fixes\Fixes.assets\1568216153991.png)
+![1568216153991](Fixes.assets\1568216153991.png)
 
 fofin_from
 
@@ -88,18 +88,18 @@ mesh
 
 再选中该曲面
 
-![1568216200137](F:\DF scut\fixes\Fixes.assets\1568216200137.png)
+![1568216200137](Fixes.assets\1568216200137.png)
 
 fofin_attributes     vertices    选中四个顶点
 
-![1568216275114](F:\DF scut\fixes\Fixes.assets\1568216275114.png)
+![1568216275114](Fixes.assets\1568216275114.png)
 
 将is_anchor改成True
 
-![1568216297128](F:\DF scut\fixes\Fixes.assets\1568216297128.png)
+![1568216297128](Fixes.assets\1568216297128.png)
 
 输入命令fofin_run
 
-![1568216338179](F:\DF scut\fixes\Fixes.assets\1568216338179.png)
+![1568216338179](Fixes.assets\1568216338179.png)
 
 即得到找形结果
